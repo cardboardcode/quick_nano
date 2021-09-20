@@ -1,5 +1,12 @@
 ## **What Is This**
-This document contains a quick cheat sheet showing users how to use nano efficiently.
+This document contains a quick **cheat sheet** showing users how to use nano efficiently.
+
+## **Why use nano?**
+Although you can use your own IDE, nano is a lightweight text editor that comes in-built into default Ubuntu. 
+
+> In other words, if you need to edit files frequently in Docker images like me, you will find nano far more convenient. 
+
+Docker does not support GUIs inherently and it is a pain to configure it to support that. 
 
 ## **Terminal Tricks**
 
@@ -11,7 +18,7 @@ This document contains a quick cheat sheet showing users how to use nano efficie
 
 `Ctrl` + `o`: Write to the file.
 
-`Ctrl` + `x`: Exit nano editor. 
+`Ctrl` + `x`: Exit nano editor.
 
 `Ctrl` + `k`: Cut the line which the cursor is on out.
 
