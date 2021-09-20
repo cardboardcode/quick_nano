@@ -6,7 +6,7 @@ Although you can use your own IDE, nano is a lightweight text editor that comes 
 
 > In other words, if you need to edit files frequently in Docker images like me, you will find nano far more convenient. 
 
-Docker does not support GUIs inherently and it is a pain to configure it to support that. 
+Docker does not support GUIs inherently and it is a pain to configure it to support that. :drop_of_blood:
 
 ## **Terminal Tricks** :computer:
 
