@@ -28,6 +28,7 @@ Docker does not support GUIs inherently and it is a pain to configure it to supp
 
 `Alt` + `w`: Repeat previously-registered search term.
 
+`Ctrl` + `v`: Page down or skip multiple lines at one go.
 
 ## **TODO** :scroll:
 
