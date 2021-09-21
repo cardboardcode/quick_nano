@@ -51,5 +51,6 @@ sudo wget https://github.com/serialhex/nano-highlight/raw/master/c.nanorc -P /us
 
 ## **TODO** :scroll:
 
-- [ ] Include instructions on how to have code-specific syntax highlighting.
-- [ ] Include instructions on how to navigate in nano editor for swiftly.
+- [x] Include instructions on how to have code-specific syntax highlighting.
+- [x] Include instructions on how to navigate in nano editor for swiftly.
+- [ ] ...
