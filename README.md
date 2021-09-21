@@ -30,6 +30,8 @@ Docker does not support GUIs inherently and it is a pain to configure it to supp
 
 `Ctrl` + `v`: Page down or skip multiple lines at one go.
 
+`Alt` + `u`: Undo previous edit.
+
 ## Syntax Highlighting :rainbow:
 
 Follow the instructions below to include specific code-specific syntax highlighting features.
