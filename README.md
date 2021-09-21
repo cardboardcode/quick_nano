@@ -30,6 +30,25 @@ Docker does not support GUIs inherently and it is a pain to configure it to supp
 
 `Ctrl` + `v`: Page down or skip multiple lines at one go.
 
+## Syntax Highlighting :rainbow:
+
+Follow the instructions below to include specific code-specific syntax highlighting features.
+
+### Markdown
+```bash
+sudo wget https://github.com/serialhex/nano-highlight/raw/master/markdown.nanorc -P /usr/share/nano/
+``` 
+
+### Python
+```bash
+sudo wget https://github.com/serialhex/nano-highlight/raw/master/python.nanorc -P /usr/share/nano/
+```
+
+### C/C++
+```bash
+sudo wget https://github.com/serialhex/nano-highlight/raw/master/c.nanorc -P /usr/share/nano/
+```
+
 ## **TODO** :scroll:
 
 - [ ] Include instructions on how to have code-specific syntax highlighting.
