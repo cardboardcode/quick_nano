@@ -53,4 +53,4 @@ sudo wget https://github.com/serialhex/nano-highlight/raw/master/c.nanorc -P /us
 
 - [x] Include instructions on how to have code-specific syntax highlighting.
 - [x] Include instructions on how to navigate in nano editor for swiftly.
-- [ ] ...
+- [ ] Include instructions/commands to edit `/etc/nanorc` to include soft-wrap and other features. 
