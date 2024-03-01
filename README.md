@@ -34,6 +34,8 @@ Docker does not support GUIs inherently and it is a pain to configure it to supp
 
 `Alt` + `u`: Undo previous edit.
 
+`Alt` + `p`: Display whitespace characters. Useful for mindful python programming.
+
 ## Syntax Highlighting :rainbow:
 
 Follow the instructions below to include specific code-specific syntax highlighting features.
@@ -58,4 +60,4 @@ sudo wget https://github.com/serialhex/nano-highlight/raw/master/c.nanorc -P /us
 - [x] Include instructions on how to have code-specific syntax highlighting.
 - [x] Include instructions on how to navigate in nano editor for swiftly.
 - [x] Include instructions/commands to edit `/etc/nanorc` to include soft-wrap and other features. 
-- [ ] Display whitespace in editor so as to avoid python.
+- [x] Display whitespace in editor so as to avoid python.
