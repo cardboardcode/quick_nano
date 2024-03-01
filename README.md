@@ -14,6 +14,8 @@ Docker does not support GUIs inherently and it is a pain to configure it to supp
 
 `nano <file_name> --mouse`: Allow scrolling and clicking to be done via the mouse.
 
+`nano <file_name> --softwrap`: Display overlong lines on multiple rows.
+
 ## **Keyboard Shortcuts** :keyboard:
 
 `Ctrl` + `o`: Write to the file.
@@ -55,5 +57,5 @@ sudo wget https://github.com/serialhex/nano-highlight/raw/master/c.nanorc -P /us
 
 - [x] Include instructions on how to have code-specific syntax highlighting.
 - [x] Include instructions on how to navigate in nano editor for swiftly.
-- [ ] Include instructions/commands to edit `/etc/nanorc` to include soft-wrap and other features. 
+- [x] Include instructions/commands to edit `/etc/nanorc` to include soft-wrap and other features. 
 - [ ] Display whitespace in editor so as to avoid python.
