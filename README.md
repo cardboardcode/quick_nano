@@ -55,6 +55,11 @@ sudo wget https://github.com/serialhex/nano-highlight/raw/master/python.nanorc -
 sudo wget https://github.com/serialhex/nano-highlight/raw/master/c.nanorc -P /usr/share/nano/
 ```
 
+### Bash
+```bash
+sudo wget https://github.com/serialhex/nano-highlight/raw/master/bash.nanorc -P /usr/share/nano/
+```
+
 ## **TODO** :scroll:
 
 - [x] Include instructions on how to have code-specific syntax highlighting.
