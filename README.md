@@ -26,7 +26,7 @@ Docker does not support GUIs inherently and it is a pain to configure it to supp
 
 `Ctrl` + `u`: Paste the line that was cut earlier.
 
-`Ctrl` + `w`: Register a string to search.
+`Ctrl` + `w` or `F6`: Register a string to search.
 
 `Alt` + `w`: Repeat previously-registered search term.
 
